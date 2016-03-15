@@ -1,0 +1,2 @@
+# Skeleton
+Sinatra Skeleton
